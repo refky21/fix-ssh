@@ -1,2 +1,11 @@
-192.168.1.14 server.local
-127.0.0.1 www.a.com
+#
+127.0.0.1 localhost
+::1 localhost
+
+127.0.0.1 localhost
+
+127.0.0.1	ppob-plugin.mkm.id
+192.168.1.14	server.local
+127.0.0.1      bsi-devel.localhost  #laragon magic!   
+127.0.0.1      bsi-old.localhost    #laragon magic!   
+127.0.0.1      private-project.localhost #laragon magic!   
